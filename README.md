@@ -1,4 +1,17 @@
-# TerraDefenders-
+# TerraDefenders
+
+## Website Build Overview
+
+This project provides the officer dashboard website for the **Smart Forest Protection Tower** network.
+
+To build the website, the implementation follows this approach:
+
+1. Set up a clear project structure and basic homepage layout.
+2. Implement core dashboard features and design elements using modern web technologies.
+3. Ensure responsive behavior and accessibility across screen sizes.
+4. Test across major browsers and devices for compatibility and reliability.
+
+---
 
 ## Smart Forest Protection Tower — Officer Dashboard
 
